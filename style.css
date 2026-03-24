@@ -100,22 +100,22 @@ body {
 }
 
 #card1 {
- background-image: url("./media/wald_pick.jpg")
+ background-image: url("/media/wald_pick.jpg")
 
 #card2 {
  background-image: url("/media/bagger.jpg");
 }
 
 #card3 {
- background-image: url(./media/cooking.jpg);
+ background-image: url("/media/cooking.jpg");
 }
 
 #card4 {
- background-image: url(./media/movie.webp);
+ background-image: url("/media/movie.webp");
 }
 
 #card5 {
- background-image: url(./media/wild.png);
+ background-image: url("/media/wild.png");
 }
 
 
